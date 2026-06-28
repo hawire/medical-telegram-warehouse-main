@@ -1,0 +1,9 @@
+version: 2
+
+models:
+  - name: fct_messages
+    columns:
+      - name: message_id
+        tests:
+          - unique
+          - not_null
