@@ -1,1 +1,17 @@
 
+[
+  {
+    "message_id": 1,
+    "date": "2026-06-28",
+    "text": "Paracetamol 100 ETB",
+    "views": 120,
+    "forwards": 5
+  },
+  {
+    "message_id": 2,
+    "date": "2026-06-28",
+    "text": "Vitamin C 80 ETB",
+    "views": 95,
+    "forwards": 3
+  }
+]
