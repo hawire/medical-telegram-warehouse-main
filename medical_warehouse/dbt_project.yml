@@ -1,1 +1,7 @@
 
+name: medical_warehouse
+version: "1.0"
+profile: medical_warehouse
+
+model-paths:
+  - models
