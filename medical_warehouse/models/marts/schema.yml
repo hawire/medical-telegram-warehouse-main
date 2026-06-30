@@ -7,3 +7,27 @@ models:
         tests:
           - unique
           - not_null
+version: 2
+
+models:
+
+  - name: fct_image_detections
+
+    description: YOLO image detections
+
+    columns:
+
+      - name: message_id
+
+        tests:
+          - not_null
+
+      - name: detected_class
+
+        tests:
+          - not_null
+
+      - name: confidence_score
+
+        tests:
+          - not_null
