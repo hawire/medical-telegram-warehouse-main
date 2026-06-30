@@ -1,0 +1,5 @@
+message_id,channel_name,detected_class,confidence_score,image_category
+12345,CheMed,person,0.92,lifestyle
+12345,CheMed,bottle,0.87,product_display
+12346,Lobelia,person,0.81,lifestyle
+12347,Tikvah,bottle,0.95,product_display
