@@ -1,0 +1,40 @@
+# Telegram Scraping
+telethon>=1.36.0
+
+# Database
+psycopg2-binary>=2.9.9
+sqlalchemy>=2.0.30
+
+# Data Processing
+pandas>=2.2.2
+numpy>=1.26.4
+
+# Environment Variables
+python-dotenv>=1.0.1
+
+# Logging
+loguru>=0.7.2
+
+# Computer Vision (YOLO)
+ultralytics>=8.3.0
+opencv-python>=4.10.0
+
+# API
+fastapi>=0.115.0
+uvicorn>=0.30.0
+pydantic>=2.8.2
+
+# Pipeline Orchestration
+dagster>=1.8.0
+dagster-webserver>=1.8.0
+
+# dbt
+dbt-core>=1.8.7
+dbt-postgres>=1.8.2
+
+# Optional
+PyYAML>=6.0.2
+
+ultralytics==8.3.0
+opencv-python
+pandas
